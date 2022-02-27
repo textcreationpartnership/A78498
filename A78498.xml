@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain queries vpon the dissolving of the late Parliament: likewise, vpon the present proceedings of the army; and on the many adresses to them, by the militia-officers of the city, and others (as they say) the godly people: and pretendeth to our good old cause, in order to preserve our rights and liberties both civil and riligious [sic].</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78498</idno>
+            <idno type="STC">Wing C1746A</idno>
+            <idno type="STC">Thomason E980_14</idno>
+            <idno type="STC">ESTC R207749</idno>
+            <idno type="EEBO-CITATION">99866785</idno>
+            <idno type="PROQUEST">99866785</idno>
+            <idno type="VID">119071</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78498)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119071)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 145:E980[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain queries vpon the dissolving of the late Parliament: likewise, vpon the present proceedings of the army; and on the many adresses to them, by the militia-officers of the city, and others (as they say) the godly people: and pretendeth to our good old cause, in order to preserve our rights and liberties both civil and riligious [sic].</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page in two states. In this state line 4 of title has "dissolving" in place of "disolving".</note>
+                  <note>Annotation on Thomason copy: "May 3d"; "May 3".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119071:1" rendition="simple:additions"/>
+            <p>Certain QVERIES Vpon The Diſſolving of the Late PARLIAMENT: LIKEWISE, Vpon the preſent Proceedings of the ARMY; AND On the many <hi>Adreſſes</hi> to them, by the <hi>Militia</hi>-Officers of the <hi>City,</hi> and others (as they ſay) the godly People: and pretendeth to our Good Old Cauſe, In Order to preſerve our Rights and Liberties both Civil and Riligious.</p>
+            <p>
+               <hi>London,</hi> Printed in the year, 1659,</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119071:2"/>
+            <pb n="3" facs="tcp:119071:2"/>
+            <head>
+               <hi>Queries</hi> upon the Diſolving of the late <hi>Parliament,</hi> likewiſe on the Proceedings of the <hi>Army;</hi> and the many Adreſſes to them, by the <hi>Malitia</hi> Officers of the <hi>City,</hi> and others, as they pretend, the godly People, for the <hi>Good old Cauſe,</hi> in order to preſerve our Rights and Liberties both Civil and Religous.</head>
+            <p n="1">I. SEing there are but two Reaſons (as I opine) which may Patronize our proceeding to, and in the late War: one derived from <hi>Ariſtotle,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the other from <hi>Renter qui j<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s habere Conſiliarios, juſſus, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſdem ne obtemperet haud examinet.</hi> Whether ever was it ſo excellently ſtated by any of our Advocates, and by our Mulifarious Abetters ſo univer<g ref="char:EOLhyphen"/>ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly underſtood, as might, or did truly entitle us to begin and pro<g ref="char:EOLhyphen"/>ſecute the ſame, carrying in its forehead the irrefragable evidence of a good Old CAVSE.</p>
+            <p n="2">II. When upon ſuppoſal of our ſetting aſide of all ſuch as appear to have followed the cauſe, from Faction and Intereſt: Whether could we ever have found a conſiderable party to encounter the Ca<g ref="char:EOLhyphen"/>valiers, and ſo to have begun and continued this bloody Con<g ref="char:EOLhyphen"/>tention?</p>
+            <p n="3">III. When upon theſe Innovations in matters Eccleſiaſtical, and ſome i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>legal impoſitions in things Political, we gained ſo great ad<g ref="char:EOLhyphen"/>vantage againſt the late King. Whether was not the truth of our good Old Cauſe (ſo far as it touched the Intereſt of all, and of the State) for the genuine purity of a regular Reformation, and not for the groſs deformity of any diſorderly alteration at all.</p>
+            <p n="4">IV. Seeing that the late King, in thate laborate Monument which he hath left, proteſteth ſo fai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly againſt all obſtinacy of Will, pre<g ref="char:EOLhyphen"/>ocupation of opinion, or prejudice of Spirit, as to the altering or
+<pb n="4" facs="tcp:119071:3"/>ſetling of any thing upon free and ſober Debate, ſo ſolemnly ap<g ref="char:EOLhyphen"/>pealing, not to the world only, but (as I remember) to GOD's all-ſeeing eye: then if we be not captivated into ſome vitious paſsion againſt all generous candour and Ingenuity. Whether can any juſt<g ref="char:EOLhyphen"/>ly and truly (or without robbing God of his Glory) deny? <hi>viz.</hi> that we might have had the Reformation aboveſaid, in ſuch a per<g ref="char:EOLhyphen"/>fection for Religion (juſt liberty for all irregular erroniſts being re<g ref="char:EOLhyphen"/>ſerved) as the Church of Chriſt never ſaw, ſince Chriſtianity gained Authority, with the Law; yea and ſuch exactneſs of Policy, as <hi>Ari<g ref="char:EOLhyphen"/>ſtotle</hi> cannot parallel. But for the ſottiſh, ignorance, ſenſual error, or ſelf particular intereſt of ſuch, who alone (like Mr. <hi>Rainsborough</hi> the Admiral) had and would have conference with him when ever they coveted the ſame, though (for ought appeareth) they under<g ref="char:EOLhyphen"/>ſtood not, either what to reply, or with what to preſs him, accord<g ref="char:EOLhyphen"/>ing to any principles, either of Law, Reaſon, or Religion.</p>
+            <p n="5">V. Seeing it hath often appeared upon any ſmall eſſay to wards an amendment, how eaſily the <hi>Army</hi> hath put a ſtop to all proceedings, and a period to all expectations by ſome one or other trick of untime<g ref="char:EOLhyphen"/>ly Diſſolution. In caſe this error be attributed to the Officers, then how can or dare theſe Military Stateſman offer any ſuch affront as excluſion, and not tremble at that odious imputation which brand<g ref="char:EOLhyphen"/>ed thoſe Stigmati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al Satellites of the <hi>Decem viri?</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>i.e.</hi> as if they ſcorned us and our Liberty in the eager luſt of their own licentiouſneſs.</p>
+            <p n="6">VI. Seeing that the omitting of that advantage by the ſelf-over<g ref="char:EOLhyphen"/>weaning ignorance of ſome, and the loſs of that opportunity by the Sacrilegious avarice (perchance) of others, hath made many to a<g ref="char:EOLhyphen"/>bandon themſelves through deſpair, unto ſome ſuperficial appea<g ref="char:EOLhyphen"/>rances, and ſhallow brain'd fancies, which have no ſetled foundati<g ref="char:EOLhyphen"/>on, nor evertend to any conſiſtence. Whether is not this the ſpring of that poſion which hath ſo horribly overſpread our body Politick, appeating in all diſorders of action and opinion, and the very root of all thoſe temerations Edicts, which have armed ignorance, weak<g ref="char:EOLhyphen"/>neſs, and envious partiality againſt all ſufficiency knowledge, and vertuous Integrity.</p>
+            <pb n="5" facs="tcp:119071:3"/>
+            <p n="7">VII. I having lately heard the Narrative by a certain Trooper then under the Cornets Command, how <hi>Joyce</hi> attached the late King without any legal Commiſsion, and now conſidering that all of us have ſeen, and many of us have ſelt the horrour and miſchief of thoſe ſucceeding exorbitancies as to Law, Equity, Iuſtice, Religion, and Morality. Do inquire, whether all the wiſe and honeſt (of what ever party or Intereſt, ought not to be jealous of, and oppo<g ref="char:EOLhyphen"/>ſite unto all ſuch Acts of will and power, as run without any cer<g ref="char:EOLhyphen"/>tain rule of Law, Reaſon, or Religion.</p>
+            <p n="8">VIII. Seeing that the houſe of Parliament, are ſaid to have Vo<g ref="char:EOLhyphen"/>ted many things in order to our wealth and ſecurity being in the na<g ref="char:EOLhyphen"/>ture and after the manner, or according to the condition of a copu<g ref="char:EOLhyphen"/>lative axiome, that either all ſhould be allowed, or nothing ſtand. Whether doth not ſuch a diſſolution as this, turn us into the Chaos or Anarchy of univerſal unſetledneſs, as to Order, Juſtice, and all Politick Government.</p>
+            <p>
+               <hi>Q.</hi> 9. Seeing none have leſs promoted, or ſecured our Rights and Liberties, then theſe of late, who have moſt deeply pretended there<g ref="char:EOLhyphen"/>unto (ſo gaining a kinde of Maſtery over us, by the myſterious ma<g ref="char:EOLhyphen"/>lignity of their engaging for us, as was once fully inſinuated to the Agitators and Souldiery in 1647.</p>
+            <p>Q. 10. Which we have ſufficiently experimented ever ſince with<g ref="char:EOLhyphen"/>out any taking notice of thoſe taunts and reproaches, wherewith our new Saints have upbraided one another. How can we (except cha<g ref="char:EOLhyphen"/>rity ought to cozen and befool our Judgement and conſcience) give any credit to theſe curious pretenders unto the protecting of our Rights, &amp;c. Without once thinking them as Briars and Thorns, which may boaſt of bearing Corn and Grape to bear rule over better Trees, though we finde nothing but the Darnel of damage and di<g ref="char:EOLhyphen"/>ſturbance from or amongſt them.</p>
+            <p>Q. 11. Seeing there are but two ſuperlative groſs errors in the Act of Government generally conſidered, as the Anteutopian will inſtruct you from <hi>Ariſtotle</hi> himſelf, <hi>viz.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>i.e.</hi> as I Opine, when any Statizing Medicors miſunderſtand, both what is a perfect or ſound conſtitution of the body Politick, as alſo
+<pb n="6" facs="tcp:119071:4"/>what particulars are by diſcuſsion to be cull'd out, as neceſſary to the ſcope and end of a right formed conſtitution. And that all one Statizing Mechanicks, yea a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Military Stateſmen, have moſt piti<g ref="char:EOLhyphen"/>ouſly ſtumbled on both theſe to the danger of ſplitting our Body Po<g ref="char:EOLhyphen"/>litick in all their Attempts, whether towards alteration or eſtabliſh<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <hi>Q.</hi> 10. How can we commit this our weather beaten Bark (ſo toſſed with winds, waves, and Pilots to ſo many and different De<g ref="char:EOLhyphen"/>ſigns) to the conduct of ignorant Cunners in hopes ever to arrive at any Port of Peace, or Political Compoſure? Or may we not ſo well commit our Viſſel to ſuch conceited Sots as <hi>Edw. Burronghs</hi> with his Antichriſtian Companions, the Quacking Impoſtures.</p>
+            <p>
+               <hi>Q.</hi> 11. Seeing that the Supream Maſter of the Science Political (as the abov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſaid Artiſt will inform you) doth poſitively aver: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>viz.</hi> that ſuch People are only capable of being caſt into a commodious Form of Policy, who are of a refined underſtanding, apt to comply with any Legiſlative ſufficiency, rather then of a meer feral animoſity.</p>
+            <p>
+               <hi>Q.</hi> 12. How can the Wiſe, and Honeſt ever brook that beaſtly diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rder of their Power and Authority to teach, and controul; who be<g ref="char:EOLhyphen"/>ing over full of ſtomach, have neither patience nor Spirit to under<g ref="char:EOLhyphen"/>ſtand and learn, or endure that thoſe ſhould ſway and appoint, whom God, Nature, and Education hath directed to ſerve and obey?</p>
+            <p>
+               <hi>Q.</hi> 13. Seeing that this very Souldiery, or ſome of them, have not only in <hi>Iune</hi> 14. 1647 profeſſed to engage for the juſt Rights and Liberties of our Country; but alſo as appeareth by ſome fift Monar<g ref="char:EOLhyphen"/>chians (ſeeming very ſimple and well meaning men in 1656, or 1657) not as a mercinary Army to ſerve the Arbitrary power of a State, but to maintain the power of the people in Parliaments againſt all Arbitrary Power, and all Parties and Intereſts whatſoever? How can you then after ſuch a diſſolution ever look any honeſt man in the face? Of anſwer one of your own Advertiſers, who hath ſtiled you (upon the like ſuppoſal) the verieſt Traitors and Rebels that ever breathed in Engliſh ayr.</p>
+            <p>
+               <hi>Q.</hi> 14. Seeing that ſome of you, and it may be, ſome of the chiefeſt Animators to this Attempt (of excluding the Members, or
+<pb n="7" facs="tcp:119071:4"/>raiſing them being ſet) have appealed unto God, as Judge of the integrity of your hearts, bent to the ſecurity of the publick Inte<g ref="char:EOLhyphen"/>reſt, and not to the advancement of themſelves, or of any particu<g ref="char:EOLhyphen"/>lar party or Intereſt?</p>
+            <p>
+               <hi>Q.</hi> 15. How can you anſwer any rational Chriſtian, or Imparti<g ref="char:EOLhyphen"/>al honeſt man, who ſhall once ſeriouſly queſtion the Good of your aim, the uprightneſs of your End, and the juſtice of your action?</p>
+            <p>
+               <hi>Q.</hi> 16. Seeing that there is an <hi>a trocious imputation,</hi> put upon us by the <hi>tranſmarine edition</hi> of one <hi>Gulielmi de urſino</hi> his <hi>Vindiciae Re<g ref="char:EOLhyphen"/>gis Caroli contra parracidas Anglos,</hi> &amp;c. (as I remember, having no manner of Book with me now, beſides the Intelligencer and ano<g ref="char:EOLhyphen"/>ther Pamphlet.) How can you upon this occurrence, avoid that charge which was alſo implicitely preſſed upon you, in a Petition to the late Protector, <hi>viz.</hi> of your not ſeeming only, but appearing abſolute (as they aver) Homicides and Parracides inſtead of Delive<g ref="char:EOLhyphen"/>rers and Preſervers, or do you ſo farre ſleight all ſound hearted Pa<g ref="char:EOLhyphen"/>triots, as to expoſe us (when ever occaſion calleth beyond the Seas) to the utmoſt inſoltation of Cavaliers and Royaliſts, as it were by the ſilence and patience of a ſelf-convincing guiltineſs?</p>
+            <p>
+               <hi>Q.</hi> 17. Seeing that the turning of Iudgement into Gall and Wormwood in Courts of Law and equity, beſides the conſtant exerciſe of an Arbitrary power in ſome continued and moſt illegall Commi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tees hath much more appeared, and alſo encreaſed (as many honeſt men aver) then ever did any the like oppreſsions under the late King.</p>
+            <p>
+               <hi>Q.</hi> 18. How can we otherwiſe conceit of your ſuggeſted fears (be they true or falſe) then as of ſo many Shaw Fools, to skare us out of all our Legal Intereſts, and true underſtanding, the better to ſup<g ref="char:EOLhyphen"/>port you and your Complices in all your advantages, how exami<g ref="char:EOLhyphen"/>nable ſoever, as to merit or legality.</p>
+            <p>
+               <hi>Q.</hi> 19. Though it be a pious inclination to attribute all events unto God, yet to ſay unto what end they are ſo ordered, is little ſhort of an overweaning arrogance or preſumption. And for that Papiſts make proſperity in enterpriſes, a mark of the true Church, mauger all Chriſtian evidence to the contrary: So that the very Bap<g ref="char:EOLhyphen"/>tiſts (whoſe intereſt in God was moſt eſpecially, they ſay, acknow<g ref="char:EOLhyphen"/>ledged by the late G nerall, as advancing that Victory at <hi>Dunb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi>) may be eaſily ſhewn the inanity of any ſuch Argument; the Scrip<g ref="char:EOLhyphen"/>ture
+<pb n="8" facs="tcp:119071:5"/>evidencing all along no greater aſſurance of unhappineſs, then to proſper in our own ways, when we are any whit out of his. Then except ſome of you can clear and ſatisfie, what is here by way of in<g ref="char:EOLhyphen"/>quiſition inſiſted upon before any free, moderate, and impartial judgements.</p>
+            <p>
+               <hi>Q.</hi> 20. How can or dare you alledge Gods miraculous providence and inſcrutrable diſpenfation, as ſufficiently patronizing any paſtion or intereſt, which appeareth yours, really diſtinct from, if not in<g ref="char:EOLhyphen"/>conſiſtent with that which is undoubtedly publick, and by all up<g ref="char:EOLhyphen"/>right and underſtanding men engaged for?</p>
+            <p>
+               <hi>Q.</hi> 21. Seeing it is very hard to find any free, impartial, and mo<g ref="char:EOLhyphen"/>derate Judge, ought we not then ſtrictly to examine. 1. What their parts and education are or were? Secondly, How and why they have ſuffered either perſecution or oppreſsion; Whether as parties of a Faction and aſpiring to an Intereſt, exceeding their ability and edu<g ref="char:EOLhyphen"/>cation, or meerly for truth and integrity. 3. What may be their aym and utmoſt appetition? How fuitable to their aforeſaid breed<g ref="char:EOLhyphen"/>ing and ſufficiency: And ſo to admit of them as they ſhall appear free from ignorance, envy, pride, intereſt and partiality.</p>
+            <p>
+               <hi>Q.</hi> 22. Seeing that Wars are from wicked Luſts, and tend to the heightening of the ſame, which declareth their inconfiſtence (ex<g ref="char:EOLhyphen"/>cept in caſe of neceſsities) with any ſpiritual conſcience, <hi>Jam.</hi> 4.4.5. 1 <hi>Cor.</hi> 3.</p>
+            <p>
+               <hi>Q.</hi> 23. Whether doth not your exciting of us by intimating the cruelty of others intention. plainly evince the like worldly Spirit, whetted by intereſt and infidelity, as if all apparent difference be<g ref="char:EOLhyphen"/>tween the ſeed of the women and Serpent were extinguiſhed?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
